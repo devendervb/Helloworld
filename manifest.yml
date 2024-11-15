@@ -1,0 +1,7 @@
+---
+applications:
+- name: Hellotesstmanual3
+  host: Hellotesstmanual3
+  buildpack: nodejs_buildpack
+  memory: 128M
+  command: node server
